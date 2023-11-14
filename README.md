@@ -16,4 +16,4 @@
 
 ## Data Source
 
-The dataset used in this project can be found on Kaggle: [The Movies Dataset]([https://www.kaggle.com/datasets/gpiosenka/100-bird-species](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data)https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data).
+The dataset used in this project can be found on Kaggle: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data)
